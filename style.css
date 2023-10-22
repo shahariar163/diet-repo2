@@ -1,0 +1,53 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0%;
+    
+    
+}
+    
+    
+h1{
+    font-size: 40px
+   
+    
+}
+
+.orange-color{
+    color: orange;
+}
+
+.grey{
+    color: grey;
+}
+
+section{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+    font-size: 20px
+}
+.half-width img{
+    width: 70%;
+}
+
+.button{
+    color: black;
+    text-decoration: none;
+    background-image: linear-gradient(orange,purple);
+    padding: 10px 30px;
+   
+    border-radius: 10px;
+    font-weight: 700;
+
+}
+
+.top-banner{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+ 
+   
+}
